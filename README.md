@@ -1,16 +1,20 @@
 # BD36_FashionMnist
 [![standard-readme compliant](https://img.shields.io/badge/Build%20by-python-brightgreen.svg?style=flat-square)](https://www.docker.com/)
+
 This repository contains:
+
 1.The main program of this project.
+
 2.A demo video.mp4 file for how does it run in docker.
+
 3.A Readme.txt for my instructor.
 
 ## Table of Contents
 - [Background](#Background)
 - [Main program](#Main program)
-- [Run by flask](#Run by flask)
+- [Run by flask](#Run-by-flask)
   - [Install](#Install)
-- [Run by docker](#Run by docker)
+- [Run by docker](#Run-by-docker)
 
 ## Background
 This project is written by python, and you can run this project by both flask and docker
