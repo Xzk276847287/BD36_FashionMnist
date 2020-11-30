@@ -11,7 +11,7 @@ This repository contains:
 
 ## Table of Contents
 - [Background](#Background)
-- [Main program](#Main program)
+- [Main program](#Main-program)
 - [Run by flask](#Run-by-flask)
   - [Install](#Install)
 - [Run by docker](#Run-by-docker)
